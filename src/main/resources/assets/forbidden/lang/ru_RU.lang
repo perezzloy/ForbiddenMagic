@@ -100,18 +100,18 @@ tc.research_category.FORBIDDEN=Апокрифы
 # Research
 forbidden.research_name.NETHERSHARDS=Осколки Нижнего мира
 forbidden.research_text.NETHERSHARDS=Цель: плохо себя вести.
-forbidden.research_page.NETHERSHARDS.1=Strange energies swirl through the Nether. On occasion, they have been known to solidify into crystal shards when certain sympathetic events occur.
-forbidden.research_page.NETHERSHARDS.2=These crystals are imbued with different vices and have many uses for more unscrupulous Thaumaturges.<BR>There are seven documented types of nether shard, each attuned to a different "deadly sin."<BR><BR><IMG>forbidden:textures/misc/research.png:0:0:111:16:1</IMG><BR>
-forbidden.research_page.NETHERSHARDS.2b=These crystals are imbued with different vices and have many uses for more unscrupulous Thaumaturges.<BR>There are six documented types of nether shard, each attuned to a different "deadly sin."<BR><BR><IMG>forbidden:textures/misc/research.png:0:16:95:16:1</IMG><BR>
-forbidden.research_page.NETHERSHARDS.3=Wrath Shards crystallize around acts of violence. The more excessive the physical force used, the more likely it is for a Wrath Shard to appear.<BR><BR>Sloth Shards congeal when proxies and accidents are used to collect resources without effort.<BR><BR>Envy Shards are taken from those who have them by those that covet them.<BR><BR>Pride Shards materialize when a creature of truly great power is cut down to size.<BR><BR>More sympathetic events may reveal themselves as time goes on.
+forbidden.research_page.NETHERSHARDS.1=Странные энергии циркулируют сквозь Преисподнюю. Иногда они, как известно, концентрируются в осколках кристаллов при благоприятствующих событиях.
+forbidden.research_page.NETHERSHARDS.2=Эти кристаллы, пронизанные различными пороками, имеют множество применений для наиболее беспринципных Тауматургов.<BR>Есть семь известных видов осколоков Преиподней, каждый настроен на какой-либо "смертный грех."<BR><BR><IMG>forbidden:textures/misc/research.png:0:0:111:16:1</IMG><BR>
+forbidden.research_page.NETHERSHARDS.2b=Эти кристаллы, пронизанные различными пороками, имеют множество применений для наиболее беспринципных Тауматургов.<BR>Есть шесть известных видов осколоков Преиподней, каждый настроен на какой-либо "смертный грех."<BR><BR><IMG>forbidden:textures/misc/research.png:0:16:95:16:1</IMG><BR>
+forbidden.research_page.NETHERSHARDS.3=Осколки Гнева кристаллизуются при актах насилия. Чем большая чрезмерная физическая сила используется, тем больше вероятность того, что появится Осколок Гнева.<BR><BR>Осколки Лени появляются, когда пользуются чужим доверием или несчастным случаем дя сбора ресурсов.<BR><BR>Осколки Зависти взяты завистниками у тех, кто уже получил чужое.<BR><BR>Осколки Гордость материализуются, когда сущность поистине великой силы "ставят на место".<BR><BR>Наиболее благоприятные события могут обнаружиться со временем.
 #
 forbidden.research_name.SKULLAXE=Топор собирателя черепов
 forbidden.research_text.SKULLAXE=Отрубить им головы!
-forbidden.research_page.SKULLAXE.1=Some monsters just really boil your blood. Skeletons! Always clacking around and using you for target practice. Or those Creepers! They just creep around blowing things up like they own the place! You wish you could just chop all their smug heads off and place them on pikes.<BR><BR>Fortunately, you've discovered an item that will let you do just that.  The Axe of the Skulltaker has a chance to remove the heads of monsters it slays. It might even work on other humans! Unfortunately, the infusion leaves the axe far too bloodthirsty to effectively cleave through boring plant matter.
+forbidden.research_page.SKULLAXE.1=Некоторые монстры действительно бесят. Скелеты! Этот стук костей, а также использование вас в качестве мишени. Или эти Криперы! Они подкрадываются и все ваши вещи взлетают на воздух! При желании вы можете поотрубать им их самодовольные головы и насадить на копья.<BR><BR>К счастью, вы обнаружили то, что позволит вам сделать именно это.Топор собирателя черепов имеет высокий шанс срубания головы с убиваемого им монстра. Это работает и с людьми! К сожалению, топор слишком кровожаден для рубки им растительного вещества.
 #
 forbidden.research_name.ARCANECAKE=Таумический торт
-forbidden.research_text.ARCANECAKE=Пусть едят торт.
-forbidden.research_page.ARCANECAKE.1=If there's one thing you love, it's cake. You would eat its delicious goodness all day if you could, but it always runs out in the end.<BR><BR>To remedy this, you have devised a recipe to infuse a cake with longevity-enhancing magic.  The Thaumic Cake lasts significantly longer than a mundane one and will slowly repair itself as long as there's at least a sliver left.  The enchantments are unstable, however, and the cake cannot be moved again through conventional means once placed down.
+forbidden.research_text.ARCANECAKE=Всем есть торт!
+forbidden.research_page.ARCANECAKE.1=Мало кто откажется от торта. Можно есть эту вкусноту целыми днями, однако хорошего много не бывает.<BR><BR>Но есть один древний магический рецепт, который исправляет эту проблему.  Таумический торт кончается гораздо медленнее обычного, и он восстанавливается пока есть хотя бы один его кусочек.  Эти чары неустойчивы, и остаток торта нельзя перемещать обычным способом.
 #
 forbidden.research_name.TAINTSHOVEL=Лопата очистителя
 forbidden.research_text.TAINTSHOVEL=Как горячий нож сквозь плотное масло
@@ -258,5 +258,5 @@ forbidden.research_page.HELLFIRE.1=Getting stranded in the Nether is the worst. 
 #
 forbidden.research_name.DIVINEWELL=Чернильница с пером Тота
 forbidden.research_text.DIVINEWELL=Сильнее меча
-forbidden.research_page.DIVINEWELL.1=After researching every last shred of knowledge in the entire cosmos, you've finally uncovered the secret to never refilling your inkwell.<BR><BR>The Scribing Tools of Thoth will never run out of ink.<BR><BR>You sure wish you could've discovered this earlier...
+forbidden.research_page.DIVINEWELL.1=После исследования всех знаний до последней крупицы, Вам наконец-то удалось создать бесконечные чернила.<BR><BR>Ваши Чернильницы теперь никогда не заканчиваются.<BR><BR>И почему это открытие не случилось раньше...
 #
