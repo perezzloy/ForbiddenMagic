@@ -98,7 +98,7 @@ itemGroup.mobcrystal=Впечатанные кристаллы
 tc.research_category.FORBIDDEN=Апокрифы
 #
 # Research
-forbidden.research_name.NETHERSHARDS=Осколки Нижнего мира
+forbidden.research_name.NETHERSHARDS=Осколки Преисподней
 forbidden.research_text.NETHERSHARDS=Цель: плохо себя вести.
 forbidden.research_page.NETHERSHARDS.1=Странные энергии циркулируют сквозь Преисподнюю. Иногда они, как известно, концентрируются в осколках кристаллов при благоприятствующих событиях.
 forbidden.research_page.NETHERSHARDS.2=Эти кристаллы, пронизанные различными пороками, имеют множество применений для наиболее беспринципных Тауматургов.<BR>Есть семь известных видов осколоков Преиподней, каждый настроен на какой-либо "смертный грех."<BR><BR><IMG>forbidden:textures/misc/research.png:0:0:111:16:1</IMG><BR>
@@ -114,29 +114,29 @@ forbidden.research_text.ARCANECAKE=Всем есть торт!
 forbidden.research_page.ARCANECAKE.1=Мало кто откажется от торта. Можно есть эту вкусноту целыми днями, однако хорошего много не бывает.<BR><BR>Но есть один древний магический рецепт, который исправляет эту проблему.  Таумический торт кончается гораздо медленнее обычного, и он восстанавливается пока есть хотя бы один его кусочек.  Эти чары неустойчивы, и остаток торта нельзя перемещать обычным способом.
 #
 forbidden.research_name.TAINTSHOVEL=Лопата очистителя
-forbidden.research_text.TAINTSHOVEL=Как горячий нож сквозь плотное масло
-forbidden.research_page.TAINTSHOVEL.1=Sometimes, the easiest way to remove patches of taint is to just physically remove them.<BR><BR>By reinforcing a thaumium shovel with Silverwood and Order Shards, you have created a tool capable of combating Taint.  The Shovel of the Purifier can dig through pulpy tainted lands as effectively as it can through normal earth.  If held in your hand and right-clicked, the shovel cures you of Flux Taint at the cost of durability.
-forbidden.research_page.TAINTSHOVEL.2=When digging through taint with the shovel, there's a chance that the twisted energies released will crystallize into Taint Shards.  Unlike other tainted materials, the crystalline pattern keeps these shards stable enough to carry around.
+forbidden.research_text.TAINTSHOVEL=Как нож сквозь масло
+forbidden.research_page.TAINTSHOVEL.1=Иногда самый простой способ удалить пятна порчи, это просто физически удалить их.<BR><BR>Закрепив на Таум-лопате с Серебрянным деревом Осколки Порядка, вы создадите средство способное побороть порчу. Лопата очистителя может копать мясистые испорченные земли так эффективно, как и нормальную землю. Щелчек ПКМ с лопатой в руке лечит Вас от заражения порчей ценой долговечности лопаты.
+forbidden.research_page.TAINTSHOVEL.2=При копании порчи лопатой, есть шанс, что выпускаемая энергия кристаллизуется в Осколках Порчи. В отличие от других испорченных материалов, кристаллический образец держит энергию достаточно стабильно, чтобы его носить с собой.
 #
 forbidden.research_name.TAINTPICK=Кирка искажения
 forbidden.research_text.TAINTPICK=Обсидиановый уничтожитель
-forbidden.research_page.TAINTPICK.1=By infusing a thaumium pickaxe with taint, you create a tool capable of cutting through difficult materials.<BR><BR>The Pickaxe of Distortion infects hard materials with taint, weakening them. The harder the material, the more effective the pickaxe is at removing it. Unfortunately, the effects of the taint have an inverse effect when mining softer materials, rendering the pickaxe less effective than just pawing at the block with your bare hands.
+forbidden.research_page.TAINTPICK.1=Соединив Таум-кирку с порчей, Вы создадите инструмент, способный легко разрушать самые твердые материалы.<BR><BR>Эта кирка заражает блоки порчей, размягчая их. Чем тверже материал, тем она эффективнее. Но и наоборот, мягкие материалы легче разрушить рукой, нежели киркой.
 #
 forbidden.research_name.ROD_tainted=Заражённый стержень
-forbidden.research_text.ROD_tainted=Изогнутое хранилище Вис
-forbidden.research_page.ROD_tainted.1=Tainted Lands are places of great and terrible power for those Thaumaturges who know how to tap into them.<BR><BR>The Tainted Wand Core can store up to 150 vis of each type and slowly replenishes itself up to 10% in every aspect as long as it is being held inside of a Tainted Land.  While the wand is held in your hand, it can also feed off of taint coursing through your veins, randomly restoring vis every time you take damage from flux taint.
+forbidden.research_text.ROD_tainted=Изогнутое хранилище аспектов
+forbidden.research_page.ROD_tainted.1=Зараженные земли являются местом мощной и темной энергии для тех Тауматургов, которые знают, как использовать ее.<BR><BR>Заражённый стержень может хранить до 150 аспектов каждого вида и медленно пополнять себя до 10% пока находится на Зараженных землях. Пока этот стержень находится в Ваших руках, он также может пополняться от Порчи в ваших венах, пополняясь на случайный % при получении Вами урона от Порчи.
 #
 forbidden.research_name.ROD_infernal=Адский стержень
-forbidden.research_text.ROD_infernal=Дьявольское хранилище Вис
-forbidden.research_page.ROD_infernal.1=A great and powerful thaumaturge like you deserves a powerful and imposing wand befitting your station. Some hippy silverwood wand just won't cut it. You need a wand that will serve as your scepter of authority.<BR><BR>You've discovered a way to create a wand infused with the power of the Nether.  The Infernal Wand Core can hold up to 150 vis and will slowly replenish its supply of Ignis up to 20%.  While within the Nether, the wand will also replenish its other aspects to 10%.
-forbidden.research_page.ROD_infernal.2=The wand also imbues you with some protection from the Nether's hazards, extinguishing you if you are on fire or protecting you from the effects of Withering as long as it is in your inventory.  While the wand is held in your hand, it will completely protect you from all fire damage.
+forbidden.research_text.ROD_infernal=Дьявольское хранилище аспектов
+forbidden.research_page.ROD_infernal.1=Такой великий и могучий Маг как Вы, заслуживает мощный и внушительный жезл, подобающий Вашему положению. Жезл из Серебрянного дерева слаб. Вам же нужен такой, который будет служить в качестве скипетра власти.<BR><BR>Вы обнаружили способ создания жезла пронизанного силой Преисподней. Адский стержень может содержать до 150 аспектов и будет медленно пополнять запас аспекта Огня до 20%. В Преисподней жезл также будет пополнять другие аспекты до 10%.
+forbidden.research_page.ROD_infernal.2=Жезл также сохранит Вас от некоторых опасностей Преисподней. Он будет тушить Вас, если вы находитесь в огне и будет защищать от иссушения до тех пор, пока он находится в вашем инвентаре. Пока Вы держите жезл в руках, он будет полностью защищать Вас от любых повреждений огнем.
 #
 forbidden.research_name.ROD_soul=Жуткий стержень
-forbidden.research_text.ROD_soul=Оскверняющее хранилище Вис
-forbidden.research_page.ROD_soul.1=You've discovered a way to tap the energy flowing through a Player Beacon and turn it into vis. As long as you're in a dimension with an active Player Beacon attuned to yourself, the Eldritch Wand Core will slowly charge all its internal reserves, which can hold up to 100 vis.<BR><BR>Channeling such great amounts of energy through your soul comes at a price, however. Each point of vis creates large amounts of corruption in your soul. It's best not to rely on its recharge abilities too greatly...
+forbidden.research_text.ROD_soul=Оскверняющее хранилище аспектов
+forbidden.research_page.ROD_soul.1=Вы обнаружили способ использовать энергию, текущую через мышцы игрока и превратить ее в аспекты. Пока Вы находитесь рядом с активным игроком, Жуткий стержень будет медленно заряжать все свои внутренние резервы, которые могут вместить до 100 аспектов.<BR><BR>Однако, транспортировка таких больших объемов энергии через Вашу душу имеет свою цену. Каждая единица аспектов создает большое количество повреждений Вашей души. Лучше не полагаться на это умение слишком сильно...
 #
 forbidden.research_name.ROD_blood=Кровавый стержень
-forbidden.research_text.ROD_blood=Алхимическое хранилище Вис
+forbidden.research_text.ROD_blood=Алхимическое хранилище аспектов
 forbidden.research_page.ROD_blood.1=You've created a bridge between Thaumaturgy and Alchemical Wizardry. The Blood Wand can store up to 100 vis and will gradually fill itself using Life Points.<BR><BR>The wand will bind itself to the first person to pick it up. As long as the rod is empty, it will try to fill itself using LP from its owner's network. If there are not enough Life Points to fuel it, it will resort to drawing health from whoever is carrying it, but this conversion is less efficient. If it has no LP to draw from and its holder falls below three hearts, the wand stops charging itself.
 forbidden.research_page.ROD_blood.2=The infusion process alone isn't enough to complete a Blood Wand. Once the Inert Blood Rod has been infused, it must be imbued with life essence in a Blood Altar to be completed.
 #
@@ -258,5 +258,5 @@ forbidden.research_page.HELLFIRE.1=Getting stranded in the Nether is the worst. 
 #
 forbidden.research_name.DIVINEWELL=Чернильница с пером Тота
 forbidden.research_text.DIVINEWELL=Сильнее меча
-forbidden.research_page.DIVINEWELL.1=После исследования всех знаний до последней крупицы, Вам наконец-то удалось создать бесконечные чернила.<BR><BR>Ваши Чернильницы теперь никогда не заканчиваются.<BR><BR>И почему это открытие не случилось раньше...
+forbidden.research_page.DIVINEWELL.1=После исследования всех знаний до последней крупицы, Вам наконец-то удалось создать бесконечные чернила.<BR><BR>Ваши Чернильницы теперь всегда полны.<BR><BR>И почему это открытие не случилось раньше...
 #
